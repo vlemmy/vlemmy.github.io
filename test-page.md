@@ -8,3 +8,4 @@ Questions:
 	string = 'code-block'
     print(string)
 	```
+    ![Photo on 23-07-2019 at 13.51 #2.jpg]({{site.baseurl}}/Photo on 23-07-2019 at 13.51 #2.jpg)
