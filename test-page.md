@@ -3,7 +3,8 @@
 Questions:
 - Can this thing take jupyter notebooks
 - What about code-blocks and images
-	```
+
+	```python3
 	string = 'code-block'
     print(string)
 	```
